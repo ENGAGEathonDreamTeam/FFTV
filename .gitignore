@@ -1,0 +1,4 @@
+#backend ignored files
+*.pyc
+__pycache__/
+*.sqlite3
